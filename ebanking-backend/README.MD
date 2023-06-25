@@ -3,7 +3,7 @@
 <hr>
 <h3><center>Conception et architecture</center></h3>
 <br>
-<h4>Use Case Diagram</h4>
+<h4>Diagramme de classe</h4>
 <img src="captures/class_diag.png">
 <h4>Architecture en couche</h4>
 <p>
